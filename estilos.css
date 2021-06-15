@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #3a3d47;
+}
+
+.logo{
+    float: left; 
+    width:  200px;
+}
+.superior{
+    background-color: darkblue;
+    overflow: hidden;
+}
+
+.menu{
+    float:left;
+    padding: 50px;
+    font-size: 35px;
+}
+
+.opciones li a{
+    color: white;
+    padding: 25px;
+    text-decoration: none;
+    border: 5px solid white;
+
+}
+.opciones li{
+    float: left;
+    list-style:none;
+}
+.container{
+    width: 1200px;
+    margin: 10px;
+    background-color: white;
+}
+.cuerpo{
+    overflow: hidden;
+}
+.titulo{
+    text-align: center;
+    color: orangered;
+    padding: 20px 0 15px 0;
+    font-size: 35px;
+
+}
+.caja{
+    width: 380px;
+    margin: 8px;
+    border: 1px solid;
+    float: left;
+}
+.subtitulo{
+    background: #1551a1;
+}
+.services{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.efecto:hover{
+    cursor: pointer; 
+    opacity: 0.9; 
+}
+.contenido{
+    text-align: justify;
+    padding: 20px;
+}
+.boton{
+    padding: 15px  20px;
+    margin: 15px 0;
+    cursor: pointer;
+    color: white;
+    background: #144a91;
+
+} 
+.localizacion{
+    text-align: center;
+    padding: 20px 0 15px;
+    font-size: 35px;
+
+}
+.pie{
+    background: #062348;
+    overflow: hidden;
+}
+.izquierda{
+    width: 550px;
+    float: left;
+    padding: 20px;
+}
+.derecha{
+    width: 550px;
+    float: left;
+    padding: 20px;
+
+}
+.abajo{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+.siguenos{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
